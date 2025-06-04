@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Priyanshi Shukla</h1>
 
 <p align="center">
-🎓 First-Year CSE Student at <strong>UCER Roorkee</strong><br>
+🎓 First-Year CSE Student at <strong>UGI Prayagraj</strong><br>
 💡 Curious Learner | 💻 Future Developer | 🇮🇳 Proud Indian
 </p>
 
